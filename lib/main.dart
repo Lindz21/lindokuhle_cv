@@ -141,6 +141,7 @@ class CVPage extends StatelessWidget {
             // EDUCATION
             const Text(
               'Education',
+
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
